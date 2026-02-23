@@ -1,0 +1,15 @@
+# Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+steps_with_AI.ipynb
+joboffer_chum.ipynb
+README.ipynb
+
+
